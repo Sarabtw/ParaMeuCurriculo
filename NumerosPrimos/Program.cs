@@ -7,11 +7,11 @@ if(int.TryParse(Console.ReadLine(), out int numero))
     int divisor;
     if(numero < 2)
     {
-        
+        Console.WriteLine("Este número não entra nesta classificação")
     }
     if(numero % divisor == 0)
     {
-
+      
     }
 }
 
