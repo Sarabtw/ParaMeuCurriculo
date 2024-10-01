@@ -7,10 +7,9 @@ internal class Program
     {
         
         Console.WriteLine("Digite um algarismo para verificar se é um número primo: ");
-        int divisor;
         if (int.TryParse(Console.ReadLine(), out int numero))
         {
-            
+            int divisor = 2;
             if (numero < 2)
             {
                 Console.WriteLine("Este número não entra nesta classificação. ");
