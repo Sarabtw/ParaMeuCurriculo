@@ -1,0 +1,5 @@
+C:\Users\Alunos\OneDrive\Documents\Sara\ParaMeuCurriculo\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documents\Sara\ParaMeuCurriculo\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Sara\ParaMeuCurriculo\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documents\Sara\ParaMeuCurriculo\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documents\Sara\ParaMeuCurriculo\NumerosPrimos\obj\Debug\net8.0\NumerosPrimos.sourcelink.json
