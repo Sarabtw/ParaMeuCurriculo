@@ -18,10 +18,10 @@ internal class Program
             {
                 Console.WriteLine("Este número não é primo. ");
             }
-            else
-            {
+        }
+        else
+        {
              Console.WriteLine("Número inválido");
-            }
         }
     }
 }
