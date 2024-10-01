@@ -5,10 +5,12 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        
         Console.WriteLine("Digite um algarismo para verificar se é um número primo: ");
+        int divisor;
         if (int.TryParse(Console.ReadLine(), out int numero))
         {
-            int divisor;
+            
             if (numero < 2)
             {
                 Console.WriteLine("Este número não entra nesta classificação. ");
@@ -19,7 +21,7 @@ internal class Program
             }
             else
             {
-             
+             Console.WriteLine("Número inválido");
             }
         }
     }
