@@ -2,4 +2,7 @@
 using System;
 
 Console.WriteLine("Digite um algarismo para verificar se é um número primo: ");
+if(int.TryParse(Console.ReadLine(), out int numero))
+{
+}
 
