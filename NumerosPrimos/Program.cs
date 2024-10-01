@@ -18,6 +18,10 @@ internal class Program
             {
                 Console.WriteLine("Este número não é primo. "); //Informa ao usuário que o número não se classifica como primo;
             }
+            else
+            {
+                
+            }
         }
         else // Este bloco só será executado se a conversão do número falhar;
         {
