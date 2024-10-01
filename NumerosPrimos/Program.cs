@@ -20,7 +20,7 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("Este número é primo.")
+                Console.WriteLine("Este número é primo.");
             }
         }
         else // Este bloco só será executado se a conversão do número falhar;
