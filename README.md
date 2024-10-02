@@ -32,7 +32,7 @@
        
 - ### Backlog:
 
-  **futuras adições**
+  ## **futuras adições**
   
   **Salvar em txt:** implementar a funcionalidade para que o programa crie ou atualize um arquivo .txt onde o resultado do cálculo seja salvo.
 
