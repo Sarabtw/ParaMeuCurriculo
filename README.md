@@ -21,6 +21,7 @@
   **2. Verificação:**
 
    - O programa utiliza o Try.Parse para verificar se é um número inteiro válido
+     
   **3. Verificação da condição:**
 
    - O programa verifica se o número é menor que 2, pois números menores que 2 não são caracterizados como primos
