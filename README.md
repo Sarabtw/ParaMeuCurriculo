@@ -5,7 +5,7 @@
 ![alt text](image-3.png)
 
 
-### Números primos
+# Números primos
 
 - ## O que foi utilizado:
   
