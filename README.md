@@ -39,5 +39,5 @@
   **Validação de entradas:** Permitir a entrada de vários números e retornar quais são primos.
      
 
-- ### Conclusão:
+- ## Conclusão:
   O programa fornece uma base para verificar se um número é primo. Embora a verificação esteja implementada para o número 2, há espaço para melhorias na lógica de verificação de primalidade e na experiência do usuário. O código pode ser expandido para fornecer uma verificação mais completa e uma interface mais amigável.
