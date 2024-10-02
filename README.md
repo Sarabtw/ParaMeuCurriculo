@@ -23,7 +23,7 @@
   4. Mensagem de erro:
    - O programa fornecerá uma mensagem de acordo com a entrada
        
-- ### Backlog:
+- ## Backlog:
  ## futuras adições
   
   implementar a funcionalidade para que o programa crie ou atualize um arquivo .txt onde o resultado do cálculo seja salvo.
