@@ -10,6 +10,7 @@
 - ## O que foi utilizado:
   
   Linguagem de programação: C#
+  
   Ambiente de desenvolvimento: Virtual Studio Code
   
 - ## Etapas implementadas:
@@ -42,4 +43,5 @@
      
 
 - ## Conclusão:
+  
   O programa fornece uma base para verificar se um número é primo. Embora a verificação esteja implementada para o número 2, há espaço para melhorias na lógica de verificação de primalidade e na experiência do usuário. O código pode ser expandido para fornecer uma verificação mais completa e uma interface mais amigável.
