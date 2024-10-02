@@ -11,7 +11,7 @@
   Linguagem de programação: C#
   Ambiente de desenvolvimento: Virtual Studio Code
   
-## Etapas implementadas:
+- ## Etapas implementadas:
   1. Entrada de informação:
    - O programa pede que o usuário informe um número para verificar se ele é classificado primo ou não
   2. Verificação:
@@ -23,7 +23,7 @@
   4. Mensagem de erro:
    - O programa fornecerá uma mensagem de acordo com a entrada
        
-### Backlog:
+- ### Backlog:
  ## futuras adições
   
   implementar a funcionalidade para que o programa crie ou atualize um arquivo .txt onde o resultado do cálculo seja salvo.
