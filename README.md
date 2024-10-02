@@ -8,13 +8,16 @@
 ### Números primos
 
 - ## O que foi utilizado:
+  
   Linguagem de programação: C#
   Ambiente de desenvolvimento: Virtual Studio Code
   
 - ## Etapas implementadas:
+  
   **1. Entrada de informação:**
 
    - O programa pede que o usuário informe um número para verificar se ele é classificado primo ou não
+     
   **2. Verificação:**
 
    - O programa utiliza o Try.Parse para verificar se é um número inteiro válido
@@ -29,7 +32,7 @@
        
 - ### Backlog:
 
- ## futuras adições
+  **futuras adições**
   
   **Salvar em txt:** implementar a funcionalidade para que o programa crie ou atualize um arquivo .txt onde o resultado do cálculo seja salvo.
 
