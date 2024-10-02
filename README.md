@@ -26,6 +26,7 @@
    - O programa verifica se o número é menor que 2, pois números menores que 2 não são caracterizados como primos
    - Agora o programa verifica se o número se dividido por 2 é igual a 0, se for igual ele não será primo
    - Se por acaso o número não se encaixar em nenhuma dessas condições, ele será primo
+     
   **4. Mensagem de erro:**
 
    - O programa fornecerá uma mensagem de acordo com a entrada
